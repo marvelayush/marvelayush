@@ -252,7 +252,7 @@ Real-time expense management with Firebase backend and React frontend.
 
 <div align="center">
 
-*"Ship fast. Learn faster. Build things that actually work."*
+*"Trying to build things that actually work."*
 
 [![](https://visitcount.itsvg.in/api?id=marvelayush&icon=6&color=6)](https://visitcount.itsvg.in)
 
