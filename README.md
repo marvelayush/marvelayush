@@ -6,9 +6,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-ayushnarayan%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-narayan-bmsce2004)
+[![Email](https://img.shields.io/badge/Email-ayushnarayan%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
 [![BMSCE](https://img.shields.io/badge/BMSCE-BTech%20ISE-0A2540?style=for-the-badge&logo=academia&logoColor=white)](https://www.bmsce.ac.in/)
 [![Hackathon](https://img.shields.io/badge/Phase%20Shift%202024-Winner-00D9FF?style=for-the-badge&logoColor=white)]()
 
@@ -238,23 +237,6 @@ Real-time expense management with Firebase backend and React frontend.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvelayush&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=c8d8e8&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelayush&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=c8d8e8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=marvelayush&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
 
 ---
 
