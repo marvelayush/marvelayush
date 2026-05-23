@@ -8,7 +8,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Ayush Narayan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Systems+%26+Networks+Engineer+%F0%9F%8C%90;NLP+%26+ML+Pipeline+Builder+%F0%9F%A4%96;Real-Time+Applications+Enthusiast+%E2%9A%A1;Competitive+Programmer+%F0%9F%A7%A9;Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Systems+%26+Networks+Engineer+%F0%9F%8C%90;NLP+%26+ML+Pipeline+Builder+%F0%9F%A4%96;Real-Time+Applications+Enthusiast+%E2%9A%A1;Competitive+Programmer+%F0%9F%A7%A9;Google+Cloud+Certified+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-narayan-bmsce2004)
-[![Email](https://img.shields.io/badge/Email-ayushnarayan.is23%40bmsce.ac.in-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/marvelayush)
+[![Email](https://img.shields.io/badge/Gmail-ayushnarayan.is23%40bmsce.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
 [![BMSCE](https://img.shields.io/badge/BMSCE-BTech%20ISE-0A2540?style=for-the-badge&logo=academia&logoColor=white)](https://www.bmsce.ac.in/)
 
 </div>
@@ -40,13 +40,13 @@
     <img alt="GitHub" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
   </a> &nbsp;&nbsp;
   <a href="mailto:ayushnarayan.is23@bmsce.ac.in" target="_blank">
-    <img alt="Gmail" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"/>
+    <img alt="Gmail" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/>
   </a> &nbsp;&nbsp;
   <a href="https://discord.com/users/marvel_ayush" target="_blank">
     <img alt="Discord" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
   </a> &nbsp;&nbsp;
-  <a href="https://leetcode.com/marvelayush" target="_blank">
-    <img alt="LeetCode" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>
+  <a href="https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375" target="_blank">
+    <img alt="Google Skills" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ class AyushNarayan:
         self.current_work = ["FRPS-2025 Funded Research @ BMSCE",
                              "Collab — Modelicon Infotech LLP"]
         self.interests    = ["Full-Stack Dev", "Systems Engineering",
-                             "Competitive Programming", "Open Source"]
+                             "Competitive Programming", "Cloud & DevOps"]
         self.fun_fact     = "I made laptop cursor move using phone gravity."
 
     def say_hi(self):
@@ -81,17 +81,38 @@ class AyushNarayan:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Highlights
+## 🏅 Highlights
 
 <div align="center">
 
 | | Achievement | Details |
 |---|---|---|
-| 🏆 | **Hackathon Winner** | Phase Shift 2024 @ BMSCE — Led design & prototype in 24-hr sprint |
 | 🔬 | **Funded Researcher** | VTU FRPS-2025 · Rs. 4.5L · Modelicon Infotech LLP |
+| ☁️ | **Google Cloud Certified** | 10+ courses — Kubernetes, Terraform, Load Balancing, Scaling |
 | 🧩 | **Competitive Programmer** | 120+ LeetCode — Arrays, Trees, Graphs, DP |
-| 🚀 | **Hackathon Regular** | Devfolio · Unstop · HackerEarth · MLH |
+| 🚀 | **Hackathon Regular** | Winner @ Phase Shift 2024 · Devfolio · Unstop · HackerEarth · MLH |
 | 🌐 | **Web Coordinator** | Info & Web Team — Phase Shift 2024, BMSCE |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ☁️ Google Cloud Skills
+
+> 🎓 All courses completed & passed on [Google Skills Boost](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+
+<div align="center">
+
+[![GCP Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Fundamentals-Core%20Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![GCP Essential Foundation](https://img.shields.io/badge/Essential%20GCP%20Infrastructure-Foundation-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![GCP Core Services](https://img.shields.io/badge/Essential%20GCP%20Infrastructure-Core%20Services-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![GCP Elastic Scaling](https://img.shields.io/badge/Elastic%20GCP%20Infrastructure-Scaling%20%26%20Automation-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![Terraform](https://img.shields.io/badge/Terraform%20on%20Google%20Cloud-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![Kubernetes](https://img.shields.io/badge/Google%20Kubernetes%20Engine-Getting%20Started-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![Load Balancing](https://img.shields.io/badge/Implementing%20Cloud%20Load%20Balancing-Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![GCP Network](https://img.shields.io/badge/Develop%20Your-Google%20Cloud%20Network-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![App Dev Env](https://img.shields.io/badge/App%20Dev%20Environment-Google%20Cloud-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+[![ACE Journey](https://img.shields.io/badge/Associate%20Cloud%20Engineer-Journey-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
 
 </div>
 
@@ -199,7 +220,7 @@ Real-time expense management with Firebase backend and React frontend.
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-0A2540?style=for-the-badge&logo=python&logoColor=white)
 
-**Capabilities:** TF-IDF Pipelines · RAG Architecture · Hallucination Mitigation · NLP Preprocessing · Supervised Classification · Model Evaluation · Confusion Matrices · Real-Time Inference
+**Capabilities:** TF-IDF Pipelines · RAG Architecture · Hallucination Mitigation · NLP Preprocessing · Supervised Classification · Model Evaluation · Confusion Matrices
 
 ---
 
@@ -226,22 +247,23 @@ Real-time expense management with Firebase backend and React frontend.
 
 ---
 
-### 🗄️ Databases & Storage
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-
----
-
-### ⚙️ Systems & DevOps
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Also:** Shell Scripting · CI/CD Basics · Microservices · OAuth · Middleware Design · HTTPS/WSS · REST APIs · WebSockets
+---
+
+### 🗄️ Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
@@ -305,9 +327,7 @@ Real-time expense management with Firebase backend and React frontend.
 
 <div align="center">
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/marvelayush/count.svg" alt="Visitor Count" />
-</p>
+<p><img src="https://profile-counter.glitch.me/marvelayush/count.svg" alt="Visitor Count" /></p>
 
 *"Ship fast. Learn faster. Build things that actually work."*
 
