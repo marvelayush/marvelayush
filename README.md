@@ -8,7 +8,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Ayush Narayan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Systems+%26+Networks+Engineer+%F0%9F%8C%90;NLP+%26+ML+Pipeline+Builder+%F0%9F%A4%96;Real-Time+Applications+Enthusiast+%E2%9A%A1;Competitive+Programmer+%F0%9F%A7%A9;Google+Cloud+Certified+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=BTech+ISE+Student+%F0%9F%8E%93;Tech+%26+Open-Source+Enthusiast+%F0%9F%92%BB;Exploring+AI%2C+ML+%26+Software+Development+%F0%9F%A4%96;Building+Projects+%26+Learning+Everyday+%F0%9F%9A%80;Problem+Solver+%26+Hackathon+Learner+%F0%9F%A7%A9;Real-Time+Application+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
