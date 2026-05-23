@@ -29,12 +29,26 @@
 
 <h2>Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-narayan-bmsce2004)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayush._.n)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marvelayush)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayushnarayan.is23@bmsce.ac.in)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/845881039468494848)
-[![Google Skills](https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
+<p>
+  <a href="https://linkedin.com/in/ayush-narayan-bmsce2004" target="_blank">
+    <img alt="LinkedIn" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/aayush._.n?igsh=MW55NjJxengyajd1cw==" target="_blank">
+    <img alt="Instagram" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/marvelayush" target="_blank">
+    <img alt="GitHub" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=ayushnarayan.is23@bmsce.ac.in" target="_blank">
+    <img alt="Gmail" height="45" width="45" src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/845881039468494848" target="_blank">
+    <img alt="Discord" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375" target="_blank">
+    <img alt="Google Skills" height="45" width="45" src="https://img.icons8.com/color/48/google-logo.png"/>
+  </a>
+</p>
 
 </div>
 
