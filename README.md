@@ -40,13 +40,13 @@
     <img alt="GitHub" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
   </a> &nbsp;&nbsp;
   <a href="mailto:ayushnarayan.is23@bmsce.ac.in" target="_blank">
-    <img alt="Gmail" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/>
+    <img alt="Gmail" height="45" width="45" src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a> &nbsp;&nbsp;
   <a href="https://discord.com/users/marvel_ayush" target="_blank">
     <img alt="Discord" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375" target="_blank">
-    <img alt="Google Skills" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png"/>
+    <img alt="Google Skills" height="45" width="45" src="https://img.icons8.com/color/48/google-logo.png"/>
   </a>
 </p>
 
@@ -54,9 +54,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="260"/>
-
 ## 🧠 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class AyushNarayan:
@@ -66,18 +68,23 @@ class AyushNarayan:
         self.location     = "Bengaluru, India"
         self.education    = "BTech ISE @ BMSCE (2023–2027)"
         self.research     = ["LLM + RAG Systems", "NLP Pipelines",
-                             "Real-Time Communication", "Network ML"]
-        self.current_work = ["FRPS-2025 Funded Research @ BMSCE",
+                             "Real-Time Comms", "Network ML"]
+        self.current_work = ["FRPS-2025 Research @ BMSCE",
                              "Collab — Modelicon Infotech LLP"]
         self.interests    = ["Full-Stack Dev", "Systems Engineering",
-                             "Competitive Programming", "Cloud & DevOps"]
-        self.fun_fact     = "I made laptop cursor move using phone gravity."
+                             "Competitive Programming", "Cloud"]
+        self.fun_fact     = "Made cursor move using phone gravity."
 
     def say_hi(self):
         print("Ship fast. Learn faster. Build things that work.")
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="220"/>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
