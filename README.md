@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=200&section=header&text=Ayush%20Narayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder.%20Breaker.%20Debugger%20of%20cursed%20bugs.&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=200&section=header&text=Ayush%20Narayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning.%20Building.%20Fixing%20Bugs%20Along%20the%20Way.&descAlignY=60&descSize=18" />
 
 </div>
 
