@@ -329,7 +329,7 @@ Real-time expense management with Firebase backend and React frontend.
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer" />
