@@ -293,22 +293,25 @@ Real-time expense management with Firebase backend and React frontend.
 
 ## ⚙️ GitHub Analytics
 
+> ⚠️ **Note:** Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username (e.g. `marvelayush` or whatever it is exactly)
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvelayush&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=c8d8e8&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelayush&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=c8d8e8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=marvelayush&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marvelayush&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -318,7 +321,7 @@ Real-time expense management with Firebase backend and React frontend.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=marvelayush&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
 
 </div>
 
@@ -334,10 +337,16 @@ Real-time expense management with Firebase backend and React frontend.
 
 <div align="center">
 
-<p><img src="https://profile-counter.glitch.me/marvelayush/count.svg" alt="Visitor Count" /></p>
+<p><img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" /></p>
 
 *"Ship fast. Learn faster. Build things that actually work."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer" />
-
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="250"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer" />
