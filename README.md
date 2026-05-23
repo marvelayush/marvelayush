@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=200&section=header&text=Ayush%20Narayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder.%20Breaker.&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=200&section=header&text=Ayush%20Narayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder.%20Breaker.%20Debugger%20of%20cursed%20bugs.&descAlignY=60&descSize=18" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Systems+%26+Networks+Engineer+%F0%9F%8C%90;NLP+%26+ML+Pipeline+Builder+%F0%9F%A4%96;Real-Time+Applications+Enthusiast+%E2%9A%A1;Competitive+Programmer+%F0%9F%A7%A9;Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-narayan-bmsce2004)
-[![Email](https://img.shields.io/badge/Email-ayushnarayan%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
+[![Email](https://img.shields.io/badge/Email-ayushnarayan.is23%40bmsce.ac.in-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![BMSCE](https://img.shields.io/badge/BMSCE-BTech%20ISE-0A2540?style=for-the-badge&logo=academia&logoColor=white)](https://www.bmsce.ac.in/)
-[![Hackathon](https://img.shields.io/badge/Phase%20Shift%202024-Winner-00D9FF?style=for-the-badge&logoColor=white)]()
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 About Me
 
@@ -43,24 +49,23 @@ class AyushNarayan:
         print("Ship fast. Learn faster. Build things that actually work.")
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Highlights & Achievements
+## 🏆 Highlights
 
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| 🏆 **Hackathon Winner** | Phase Shift 2024 @ BMSCE — Led solution design & rapid prototyping in 24-hr sprint |
-| 🔬 **Funded Researcher** | VTU FRPS-2025 Grant · Rs. 4.5L · Industry collab with Modelicon Infotech LLP |
-| 🧩 **Competitive Programmer** | 120+ problems on LeetCode — Arrays, Trees, Graphs, DP, O(n²)→O(n log n) |
-| 🌐 **Web Coordinator** | Junior Coordinator, Information & Web Team — Phase Shift 2024, BMSCE |
-| ⚡ **IEEE Participant** | Hands-on AI, IoT & Software Engineering workshops |
-| 🚀 **Hackathon Regular** | Active on Devfolio, Unstop, HackerEarth, MLH |
+| | Achievement | Details |
+|---|---|---|
+| 🏆 | **Hackathon Winner** | Phase Shift 2024 @ BMSCE — Led solution design & prototyping in 24-hr sprint |
+| 🔬 | **Funded Researcher** | VTU FRPS-2025 Grant · Rs. 4.5L · Modelicon Infotech LLP collaboration |
+| 🧩 | **Competitive Programmer** | 120+ LeetCode problems — Arrays, Trees, Graphs, DP |
+| 🚀 | **Hackathon Regular** | Active on Devfolio, Unstop, HackerEarth, MLH |
+| 🌐 | **Web Coordinator** | Info & Web Team — Phase Shift 2024, BMSCE |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -68,45 +73,44 @@ class AyushNarayan:
 <summary><b>🤖 AI-Powered Academic ERP Assistant</b> — <i>FRPS-2025 Funded, Ongoing</i></summary>
 <br>
 
-Conversational AI backend grounding an LLM assistant with live institutional ERP data.
+Conversational AI backend grounding an LLM with live institutional ERP data.
 
-- RAG pipeline reducing hallucination by grounding responses with structured ERP records
-- Secure API integration between the LLM assistant and campus ERP system
-- Modular backend services for query parsing, auth handling, and ERP request routing
+- RAG pipeline reducing hallucination by grounding on structured ERP records
+- Secure API integration between LLM assistant and campus ERP system
+- Modular backend for query parsing, auth handling, and ERP request routing
 - Targeting campus-wide deployment, peer-reviewed publication, and patent filing
 
-**Stack:** Python · LLM APIs · RAG · REST APIs · Modelicon Infotech LLP
+**Stack:** `Python` `LLM APIs` `RAG` `REST APIs` `Modelicon Infotech LLP`
 
 </details>
 
 <details>
-<summary><b>🖱️ Mouse Controller</b> — <i>Real-Time Motion Mouse</i> · <a href="https://mouse-controller-nine.vercel.app/">Live Demo ↗</a></summary>
+<summary><b>🖱️ Mouse Controller</b> — <i>Real-Time Motion Mouse</i> &nbsp;·&nbsp; <a href="https://mouse-controller-nine.vercel.app/">🌐 Live Demo</a></summary>
 <br>
 
 Control your laptop cursor by tilting your phone — like pointing a TV remote at your screen.
 
 - WebSocket-based real-time communication with ultra-low latency
-- DeviceOrientation API capturing gyroscope Alpha/Beta/Gamma axes from phone
-- Python + FastAPI + pyautogui backend translating motion into cursor movement
-- QR-code device pairing, HTTPS/WSS security, live telemetry dashboard
-- Framer Motion UI with sensitivity slider, click buttons, and tracking toggle
+- DeviceOrientation API capturing gyroscope Alpha/Beta/Gamma axes
+- Python + FastAPI + pyautogui translating motion → cursor movement
+- QR-code pairing, HTTPS/WSS security, live telemetry dashboard with motion viz
 
-**Stack:** Next.js · React · Python · FastAPI · WebSockets · pyautogui · Tailwind CSS
+**Stack:** `Next.js` `React` `Python` `FastAPI` `WebSockets` `pyautogui` `Tailwind CSS`
 
 </details>
 
 <details>
-<summary><b>🇮🇳 India Explorer</b> — <i>Full-Stack Travel Platform</i> · <a href="https://india-explorer-peach.vercel.app">Live Demo ↗</a></summary>
+<summary><b>🇮🇳 India Explorer</b> — <i>Full-Stack Travel Platform</i> &nbsp;·&nbsp; <a href="https://india-explorer-peach.vercel.app">🌐 Live Demo</a></summary>
 <br>
 
-Immersive full-stack travel discovery platform for exploring India's cultural and tourism landscape.
+Immersive full-stack travel discovery platform for exploring India's cultural landscape.
 
-- FastAPI backend with REST endpoints for states, destinations, categories, and search
-- MongoDB Atlas document architecture with async Motor/PyMongo integration
+- FastAPI REST endpoints for states, destinations, categories, and intelligent search
+- MongoDB Atlas async document architecture with Motor/PyMongo
 - Framer Motion animations, Tailwind responsive layouts, Axios API communication
-- Cloud deployment: Vercel (frontend) + Render (backend) + MongoDB Atlas (DB)
+- Cloud deployment: Vercel + Render + MongoDB Atlas
 
-**Stack:** React · FastAPI · MongoDB Atlas · Tailwind CSS · Framer Motion · Vercel · Render
+**Stack:** `React` `FastAPI` `MongoDB Atlas` `Tailwind CSS` `Framer Motion` `Vercel` `Render`
 
 </details>
 
@@ -117,11 +121,11 @@ Immersive full-stack travel discovery platform for exploring India's cultural an
 End-to-end supervised NLP pipeline for binary resume classification.
 
 - TF-IDF vectorization (max_features=5000) capturing high-signal lexical features
-- Gensim tokenization + NLTK stopword removal + normalization + noise reduction
-- L2-regularized Logistic Regression and LinearSVC trained on stratified splits
-- Evaluated with Accuracy, Precision, Recall, F1, and confusion matrices; real-time inference workflow
+- Gensim tokenization + NLTK stopword removal + L2-regularized Logistic Regression & LinearSVC
+- Evaluated on Accuracy, Precision, Recall, F1, and confusion matrices
+- Real-time inference workflow for interactive prediction
 
-**Stack:** Python · scikit-learn · TF-IDF · NLTK · Gensim · Logistic Regression · LinearSVC
+**Stack:** `Python` `scikit-learn` `TF-IDF` `NLTK` `Gensim` `Logistic Regression` `LinearSVC`
 
 </details>
 
@@ -133,10 +137,10 @@ Real-time network performance monitoring with ML-based congestion state predicti
 
 - ICMP / UDP / TCP RTT measurement pipeline + iPerf3 throughput analysis
 - Feature engineering: mean RTT, standard deviation, signal elevation
-- SVM-based congestion classifier with CSV logging and matplotlib graph output
-- Supports single-laptop and two-laptop demo configurations
+- SVM-based congestion classifier; CSV logging + matplotlib graph output
+- Single-laptop and two-laptop demo configurations
 
-**Stack:** Python · scikit-learn · SVM · iPerf3 · matplotlib · NumPy · pandas
+**Stack:** `Python` `scikit-learn` `SVM` `iPerf3` `matplotlib` `NumPy` `pandas`
 
 </details>
 
@@ -146,16 +150,15 @@ Real-time network performance monitoring with ML-based congestion state predicti
 
 Real-time expense management with Firebase backend and React frontend.
 
-- Firebase Auth + Firestore CRUD with optimistic UI updates for instant responsiveness
-- Category-based filtering, input validation, and React Hooks state management
-- Modular reusable component architecture with date-wise sorted transaction history
-- Real-time balance sync across sessions via Firestore live listeners
+- Firebase Auth + Firestore CRUD with optimistic UI updates
+- Category filtering, input validation, React Hooks state management
+- Date-wise sorted transaction history with real-time balance sync across sessions
 
-**Stack:** React · Firebase · Firestore · React Hooks
+**Stack:** `React` `Firebase` `Firestore` `React Hooks`
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Skills & Technologies
 
@@ -223,9 +226,9 @@ Real-time expense management with Firebase backend and React frontend.
 
 ### 🔬 CS Fundamentals & Analytics
 
-- **DSA:** 120+ problems on LeetCode — Arrays, Linked Lists, Trees, Graphs, Dynamic Programming; complexity optimizations O(n²) → O(n log n)
-- **Core:** OOP · System Design · DBMS · Operating Systems · Computer Networks · Distributed Systems Concepts
-- **Data:** NumPy · Pandas · Matplotlib · TF-IDF · Diagnostic artifacts (confusion matrices, metric charts)
+- **DSA:** 120+ LeetCode — Arrays, Linked Lists, Trees, Graphs, Dynamic Programming; O(n²) → O(n log n) optimizations
+- **Core:** OOP · System Design · DBMS · Operating Systems · Computer Networks · Distributed Systems
+- **Data:** NumPy · Pandas · Matplotlib · TF-IDF · Confusion matrices · Metric charts
 - **Networks:** RTT profiling · ICMP/UDP/TCP measurement · Throughput analysis · Congestion modeling
 
 ---
@@ -238,7 +241,24 @@ Real-time expense management with Firebase backend and React frontend.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvelayush&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=c8d8e8&icon_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelayush&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=c8d8e8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=marvelayush&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
@@ -248,11 +268,19 @@ Real-time expense management with Firebase backend and React frontend.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-*"Trying to build things that actually work."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Ship fast. Learn faster. Build things that actually work."*
 
 [![](https://visitcount.itsvg.in/api?id=marvelayush&icon=6&color=6)](https://visitcount.itsvg.in)
 
