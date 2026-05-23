@@ -6,48 +6,78 @@
 
 <div align="center">
 
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Ayush Narayan
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Systems+%26+Networks+Engineer+%F0%9F%8C%90;NLP+%26+ML+Pipeline+Builder+%F0%9F%A4%96;Real-Time+Applications+Enthusiast+%E2%9A%A1;Competitive+Programmer+%F0%9F%A7%A9;Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-narayan-bmsce2004)
 [![Email](https://img.shields.io/badge/Email-ayushnarayan.is23%40bmsce.ac.in-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/marvelayush)
 [![BMSCE](https://img.shields.io/badge/BMSCE-BTech%20ISE-0A2540?style=for-the-badge&logo=academia&logoColor=white)](https://www.bmsce.ac.in/)
 
 </div>
 
+<br>
+
+<div align="center">
+
+<h2>Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/ayush-narayan-bmsce2004" target="_blank">
+    <img alt="LinkedIn" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/aayush._.n?igsh=MW55NjJxengyajd1cw==" target="_blank">
+    <img alt="Instagram" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/marvelayush" target="_blank">
+    <img alt="GitHub" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="mailto:ayushnarayan.is23@bmsce.ac.in" target="_blank">
+    <img alt="Gmail" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/marvel_ayush" target="_blank">
+    <img alt="Discord" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/marvelayush" target="_blank">
+    <img alt="LeetCode" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>
+  </a>
+</p>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="260"/>
 
 ## 🧠 About Me
 
 ```python
 class AyushNarayan:
     def __init__(self):
-        self.name          = "Ayush Narayan"
-        self.location      = "Bengaluru, India"
-        self.education     = "BTech ISE @ BMS College of Engineering (2023–2027)"
-        self.current_work  = [
-                               "FRPS-2025 Funded Research @ BMSCE (Rs. 4.5L Grant)",
-                               "Industry Collaboration — Modelicon Infotech LLP"
-                             ]
-        self.building      = [
-                               "AI-Powered ERP Assistant (LLM + RAG)",
-                               "Motion-Controlled Cursor via Phone Gyroscope",
-                               "Full-Stack Travel Platform with FastAPI + MongoDB"
-                             ]
-        self.interests     = [
-                               "Systems Engineering", "Real-Time Applications",
-                               "NLP Pipelines", "Competitive Programming",
-                               "Full-Stack Development"
-                             ]
-        self.fun_fact      = "I made a laptop cursor move using phone gravity. Yes, really."
+        self.name         = "Ayush Narayan"
+        self.pronouns     = "He/Him"
+        self.location     = "Bengaluru, India"
+        self.education    = "BTech ISE @ BMSCE (2023–2027)"
+        self.research     = ["LLM + RAG Systems", "NLP Pipelines",
+                             "Real-Time Communication", "Network ML"]
+        self.current_work = ["FRPS-2025 Funded Research @ BMSCE",
+                             "Collab — Modelicon Infotech LLP"]
+        self.interests    = ["Full-Stack Dev", "Systems Engineering",
+                             "Competitive Programming", "Open Source"]
+        self.fun_fact     = "I made laptop cursor move using phone gravity."
 
     def say_hi(self):
-        print("Ship fast. Learn faster. Build things that actually work.")
+        print("Ship fast. Learn faster. Build things that work.")
 ```
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -57,10 +87,10 @@ class AyushNarayan:
 
 | | Achievement | Details |
 |---|---|---|
-| 🏆 | **Hackathon Winner** | Phase Shift 2024 @ BMSCE — Led solution design & prototyping in 24-hr sprint |
-| 🔬 | **Funded Researcher** | VTU FRPS-2025 Grant · Rs. 4.5L · Modelicon Infotech LLP collaboration |
-| 🧩 | **Competitive Programmer** | 120+ LeetCode problems — Arrays, Trees, Graphs, DP |
-| 🚀 | **Hackathon Regular** | Active on Devfolio, Unstop, HackerEarth, MLH |
+| 🏆 | **Hackathon Winner** | Phase Shift 2024 @ BMSCE — Led design & prototype in 24-hr sprint |
+| 🔬 | **Funded Researcher** | VTU FRPS-2025 · Rs. 4.5L · Modelicon Infotech LLP |
+| 🧩 | **Competitive Programmer** | 120+ LeetCode — Arrays, Trees, Graphs, DP |
+| 🚀 | **Hackathon Regular** | Devfolio · Unstop · HackerEarth · MLH |
 | 🌐 | **Web Coordinator** | Info & Web Team — Phase Shift 2024, BMSCE |
 
 </div>
@@ -73,12 +103,12 @@ class AyushNarayan:
 <summary><b>🤖 AI-Powered Academic ERP Assistant</b> — <i>FRPS-2025 Funded, Ongoing</i></summary>
 <br>
 
-Conversational AI backend grounding an LLM with live institutional ERP data.
+Conversational AI grounding an LLM with live institutional ERP data.
 
-- RAG pipeline reducing hallucination by grounding on structured ERP records
+- RAG pipeline reducing hallucination by anchoring on structured ERP records
 - Secure API integration between LLM assistant and campus ERP system
 - Modular backend for query parsing, auth handling, and ERP request routing
-- Targeting campus-wide deployment, peer-reviewed publication, and patent filing
+- Targeting campus-wide deployment, publication, and patent filing
 
 **Stack:** `Python` `LLM APIs` `RAG` `REST APIs` `Modelicon Infotech LLP`
 
@@ -93,7 +123,7 @@ Control your laptop cursor by tilting your phone — like pointing a TV remote a
 - WebSocket-based real-time communication with ultra-low latency
 - DeviceOrientation API capturing gyroscope Alpha/Beta/Gamma axes
 - Python + FastAPI + pyautogui translating motion → cursor movement
-- QR-code pairing, HTTPS/WSS security, live telemetry dashboard with motion viz
+- QR-code pairing, HTTPS/WSS security, live telemetry dashboard
 
 **Stack:** `Next.js` `React` `Python` `FastAPI` `WebSockets` `pyautogui` `Tailwind CSS`
 
@@ -105,10 +135,10 @@ Control your laptop cursor by tilting your phone — like pointing a TV remote a
 
 Immersive full-stack travel discovery platform for exploring India's cultural landscape.
 
-- FastAPI REST endpoints for states, destinations, categories, and intelligent search
+- FastAPI REST endpoints for states, destinations, categories, and search
 - MongoDB Atlas async document architecture with Motor/PyMongo
 - Framer Motion animations, Tailwind responsive layouts, Axios API communication
-- Cloud deployment: Vercel + Render + MongoDB Atlas
+- Cloud: Vercel + Render + MongoDB Atlas
 
 **Stack:** `React` `FastAPI` `MongoDB Atlas` `Tailwind CSS` `Framer Motion` `Vercel` `Render`
 
@@ -122,8 +152,7 @@ End-to-end supervised NLP pipeline for binary resume classification.
 
 - TF-IDF vectorization (max_features=5000) capturing high-signal lexical features
 - Gensim tokenization + NLTK stopword removal + L2-regularized Logistic Regression & LinearSVC
-- Evaluated on Accuracy, Precision, Recall, F1, and confusion matrices
-- Real-time inference workflow for interactive prediction
+- Accuracy, Precision, Recall, F1, confusion matrices; real-time inference workflow
 
 **Stack:** `Python` `scikit-learn` `TF-IDF` `NLTK` `Gensim` `Logistic Regression` `LinearSVC`
 
@@ -136,9 +165,8 @@ End-to-end supervised NLP pipeline for binary resume classification.
 Real-time network performance monitoring with ML-based congestion state prediction.
 
 - ICMP / UDP / TCP RTT measurement pipeline + iPerf3 throughput analysis
-- Feature engineering: mean RTT, standard deviation, signal elevation
+- Feature engineering: mean RTT, std deviation, signal elevation
 - SVM-based congestion classifier; CSV logging + matplotlib graph output
-- Single-laptop and two-laptop demo configurations
 
 **Stack:** `Python` `scikit-learn` `SVM` `iPerf3` `matplotlib` `NumPy` `pandas`
 
@@ -152,7 +180,7 @@ Real-time expense management with Firebase backend and React frontend.
 
 - Firebase Auth + Firestore CRUD with optimistic UI updates
 - Category filtering, input validation, React Hooks state management
-- Date-wise sorted transaction history with real-time balance sync across sessions
+- Date-wise sorted transaction history with real-time balance sync
 
 **Stack:** `React` `Firebase` `Firestore` `React Hooks`
 
@@ -160,10 +188,9 @@ Real-time expense management with Firebase backend and React frontend.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Skills & Technologies
+## 💻 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### 🤖 AI / ML & NLP
-
 ![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-0A2540?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00D9FF?style=for-the-badge&logoColor=white)
@@ -177,7 +204,6 @@ Real-time expense management with Firebase backend and React frontend.
 ---
 
 ### 💻 Languages
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -190,7 +216,6 @@ Real-time expense management with Firebase backend and React frontend.
 ---
 
 ### 🌐 Web & Full-Stack
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -202,39 +227,33 @@ Real-time expense management with Firebase backend and React frontend.
 ---
 
 ### 🗄️ Databases & Storage
-
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Also:** NoSQL Schema Design · SQL Query Optimization · REST API Design · WebSockets · API Gateway Patterns
-
 ---
 
-### ⚙️ Backend, Systems & DevOps
-
+### ⚙️ Systems & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Also:** Shell Scripting · CI/CD Basics · Microservices · OAuth · Middleware Design · HTTPS/WSS · Production Debugging
+**Also:** Shell Scripting · CI/CD Basics · Microservices · OAuth · Middleware Design · HTTPS/WSS · REST APIs · WebSockets
 
 ---
 
-### 🔬 CS Fundamentals & Analytics
-
-- **DSA:** 120+ LeetCode — Arrays, Linked Lists, Trees, Graphs, Dynamic Programming; O(n²) → O(n log n) optimizations
-- **Core:** OOP · System Design · DBMS · Operating Systems · Computer Networks · Distributed Systems
-- **Data:** NumPy · Pandas · Matplotlib · TF-IDF · Confusion matrices · Metric charts
-- **Networks:** RTT profiling · ICMP/UDP/TCP measurement · Throughput analysis · Congestion modeling
+### 🔬 CS Fundamentals
+- **DSA:** 120+ LeetCode — Arrays, Linked Lists, Trees, Graphs, DP; O(n²) → O(n log n) optimizations
+- **Core:** OOP · System Design · DBMS · OS · Computer Networks · Distributed Systems
+- **Data:** NumPy · Pandas · Matplotlib · TF-IDF · Confusion matrices
+- **Networks:** RTT profiling · ICMP/UDP/TCP · Throughput analysis · Congestion modeling
 
 ---
 
-### 🧰 Tools & Platforms
-
+### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -243,7 +262,7 @@ Real-time expense management with Firebase backend and React frontend.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## ⚙️ GitHub Analytics
 
 <div align="center">
 
@@ -255,6 +274,12 @@ Real-time expense management with Firebase backend and React frontend.
 <div align="center">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=marvelayush&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</div>
+
+<div align="center">
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marvelayush&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -280,9 +305,11 @@ Real-time expense management with Firebase backend and React frontend.
 
 <div align="center">
 
-*"Ship fast. Learn faster. Build things that actually work."*
+<p align="center">
+  <img src="https://profile-counter.glitch.me/marvelayush/count.svg" alt="Visitor Count" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=marvelayush&icon=6&color=6)](https://visitcount.itsvg.in)
+*"Ship fast. Learn faster. Build things that actually work."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer" />
 
