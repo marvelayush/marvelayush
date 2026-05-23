@@ -317,22 +317,19 @@ Real-time expense management with Firebase backend and React frontend.
 
 </div>
 
+
 <br>
 
 <div align="center">
 
-<p><img src="https://profile-counter.glitch.me/marvelayush/count.svg" alt="Visitor Count" /></p>
-
-*"Ship fast. Learn faster. Build things that actually work."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=3000&color=00D9FF&center=true&vCenter=true&width=750&height=50&lines=%22Ship+fast.+Learn+faster.+Build+things+that+actually+work.%22)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" />
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer" />
