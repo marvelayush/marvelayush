@@ -16,8 +16,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-narayan-bmsce2004)
-[![Email](https://img.shields.io/badge/Gmail-ayushnarayan.is23%40bmsce.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushnarayan.is23@bmsce.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Narayan-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-narayan-bmsce2004)
+[![Email](https://img.shields.io/badge/Gmail-ayushnarayan.is23%40bmsce.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayushnarayan.is23@bmsce.ac.in)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375)
 [![BMSCE](https://img.shields.io/badge/BMSCE-BTech%20ISE-0A2540?style=for-the-badge&logo=academia&logoColor=white)](https://www.bmsce.ac.in/)
 
@@ -30,7 +30,7 @@
 <h2>Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/ayush-narayan-bmsce2004" target="_blank">
+  <a href="https://linkedin.com/in/ayush-narayan-bmsce2004" target="_blank">
     <img alt="LinkedIn" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/aayush._.n?igsh=MW55NjJxengyajd1cw==" target="_blank">
@@ -39,10 +39,10 @@
   <a href="https://github.com/marvelayush" target="_blank">
     <img alt="GitHub" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
   </a> &nbsp;&nbsp;
-  <a href="mailto:ayushnarayan.is23@bmsce.ac.in" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=ayushnarayan.is23@bmsce.ac.in" target="_blank">
     <img alt="Gmail" height="45" width="45" src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a> &nbsp;&nbsp;
-  <a href="https://discord.com/users/marvel_ayush" target="_blank">
+  <a href="https://discord.com/users/845881039468494848" target="_blank">
     <img alt="Discord" height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.skills.google/public_profiles/e1ca8441-c980-4446-964e-9dadffbfb375" target="_blank">
@@ -158,21 +158,6 @@ Control your laptop cursor by tilting your phone — like pointing a TV remote a
 </details>
 
 <details>
-<summary><b>🇮🇳 India Explorer</b> — <i>Full-Stack Travel Platform</i> &nbsp;·&nbsp; <a href="https://india-explorer-peach.vercel.app">🌐 Live Demo</a></summary>
-<br>
-
-Immersive full-stack travel discovery platform for exploring India's cultural landscape.
-
-- FastAPI REST endpoints for states, destinations, categories, and search
-- MongoDB Atlas async document architecture with Motor/PyMongo
-- Framer Motion animations, Tailwind responsive layouts, Axios API communication
-- Cloud: Vercel + Render + MongoDB Atlas
-
-**Stack:** `React` `FastAPI` `MongoDB Atlas` `Tailwind CSS` `Framer Motion` `Vercel` `Render`
-
-</details>
-
-<details>
 <summary><b>📄 Automated Resume Analyzer</b> — <i>NLP Classification Pipeline</i></summary>
 <br>
 
@@ -201,16 +186,24 @@ Real-time network performance monitoring with ML-based congestion state predicti
 </details>
 
 <details>
-<summary><b>💸 Expense Tracker</b> — <i>Full-Stack Web App</i></summary>
+<summary><b>🇮🇳 India Explorer</b> — <i>Full-Stack Travel Platform</i> &nbsp;·&nbsp; <a href="https://india-explorer-peach.vercel.app">🌐 Live Demo</a></summary>
 <br>
 
-Real-time expense management with Firebase backend and React frontend.
+A modern full-stack travel exploration platform showcasing India's cultural diversity, heritage, architecture, and tourism ecosystem through a visually immersive interface.
 
-- Firebase Auth + Firestore CRUD with optimistic UI updates
-- Category filtering, input validation, React Hooks state management
-- Date-wise sorted transaction history with real-time balance sync
+- 🗺️ Interactive state exploration with dynamic routing and categorized tourism filtering
+- 🔍 Real-time intelligent search across states and destinations
+- ⚡ FastAPI REST endpoints — `/api/states`, `/api/search`, `/api/states/{slug}`, `/api/categories`
+- 🗃️ MongoDB Atlas async document architecture with Motor/PyMongo integration
+- 🎨 Framer Motion animations, Tailwind CSS responsive layouts, Axios API communication
+- ☁️ Full cloud deployment: Vercel (frontend) + Render (backend) + MongoDB Atlas (DB)
 
-**Stack:** `React` `Firebase` `Firestore` `React Hooks`
+**System Architecture:**
+```
+React Frontend (Vercel) → FastAPI Backend (Render) → MongoDB Atlas
+```
+
+**Stack:** `React.js` `FastAPI` `MongoDB Atlas` `Tailwind CSS` `Framer Motion` `Axios` `Uvicorn` `Pydantic` `Vercel` `Render`
 
 </details>
 
